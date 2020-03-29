@@ -1,1 +1,2 @@
 this is text4 that will get merged into master.
+Second line
